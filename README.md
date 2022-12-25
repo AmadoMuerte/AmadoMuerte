@@ -12,9 +12,35 @@
   </div> 
   <img src="https://komarev.com/ghpvc/?username=your-github-AmadoMuerte&style=flat-square&color=blue" />
   <h2>
-    Hello, I'm glad to see you
-    <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="30px"/>
+    Hello, I'm glad to see you :wink:
   </h2>
 </div>
+
+ I am frontend developer on React Js :dizzy:
+- I have been learning frontend since 2021 :space_invader:
+- I have experience in making cool SPA applications :scream:
+- And I'm just a good person who loves programming :heart_on_fire:
+
+<div>
+if you want to talk: <a href="https://t.me/SwiftLostGirl">
+          <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="80">
+      </a>
+</div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg"  title="scss" alt="scss" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="TS" width="40" height="40"/>&nbsp;
+</div>
+
+---
 
 
