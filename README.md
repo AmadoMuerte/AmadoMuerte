@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="./images/IMG_1919.JPG" width="100"/>
+  <img src="./images/IMG_1919.JPG" width="200"/>
 <div id="badges">
     <a href="https://t.me/SwiftLostGirl">
         <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="120">
