@@ -14,6 +14,6 @@
 </div>
 
 <h2>
-                         Hi i am Boris and i frontend developer on React Js
+  Hello, I'm glad to see you
   <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="30px"/>
 </h2>
