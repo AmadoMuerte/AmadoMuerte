@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="./images/IMG_1919.JPG" width="200"/>
+  <img src="./images/IMG_1919.JPG" width="300"/>
   <div id="badges">
       <a href="https://t.me/SwiftLostGirl">
           <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="120">
@@ -41,7 +41,7 @@ if you want to talk: <a href="https://t.me/SwiftLostGirl">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="TS" width="40" height="40"/>&nbsp;
 </div>
 
----
+
 
 ### :fire: My Stats :
 
@@ -51,5 +51,4 @@ if you want to talk: <a href="https://t.me/SwiftLostGirl">
 
 
 
----
 
