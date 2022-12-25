@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
+  <img src="./images/IMG_1919.JPG" width="100"/>
 <div id="badges">
     <a href="https://t.me/SwiftLostGirl">
         <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="120">
@@ -15,6 +15,5 @@
 
 <h2>
   Hi i am Boris and i frontend developer on React Js
-
   <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="30px"/>
 </h2>
