@@ -16,6 +16,8 @@
   </h2>
 </div>
 
+
+
  I am frontend developer on React Js :dizzy:
 - I have been learning frontend since 2021 :space_invader:
 - I have experience in making cool SPA applications :scream:
@@ -50,5 +52,6 @@ if you want to talk: <a href="https://t.me/SwiftLostGirl">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadoMuerte&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+#### Project I'm currently doing - <a href="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397/project/d4acf073-1e82-4d8f-8469-315b12c2d556"><img src="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397/project/d4acf073-1e82-4d8f-8469-315b12c2d556.svg" alt="wakatime"></a>
 
 
