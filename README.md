@@ -50,8 +50,3 @@ if you want to talk: <a href="https://t.me/SwiftLostGirl">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AmadoMuerte&theme=cobalt&hide_border=true&border_radius=0.3&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadoMuerte&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-#### Project I'm currently doing - <a href="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397/project/d4acf073-1e82-4d8f-8469-315b12c2d556"><img src="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397/project/d4acf073-1e82-4d8f-8469-315b12c2d556.svg" alt="wakatime"></a>
-
-
