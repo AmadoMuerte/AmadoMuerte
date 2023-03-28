@@ -30,6 +30,7 @@ if you want to talk: <a href="https://t.me/SwiftLostGirl">
       </a>
 </div>
 My site - https://boris-smirnov.netlify.app/
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
