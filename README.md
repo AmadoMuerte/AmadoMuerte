@@ -29,7 +29,7 @@ if you want to talk: <a href="https://t.me/SwiftLostGirl">
           <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="80">
       </a>
 </div>
-
+My site - https://boris-smirnov.netlify.app/
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
