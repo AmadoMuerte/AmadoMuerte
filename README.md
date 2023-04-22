@@ -10,7 +10,8 @@
           <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white" width="65">
       </a>
   </div> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-AmadoMuerte&style=flat-square&color=blue" />
+
+  <a href="https://wakatime.com/@c79d01bf-5cd6-4649-abd8-7a23de944397"><img src="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397.svg" alt="Total time   coded since Dec 25 2022" /></a>
   <h2>
     Hello, I'm glad to see you :wink:
   </h2>
@@ -44,7 +45,6 @@ My site - https://boris-smirnov.netlify.app/
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="Typescript" alt="TS" width="40" height="40"/>&nbsp;
 </div>
-
 
 
 ### :fire: My Stats :
