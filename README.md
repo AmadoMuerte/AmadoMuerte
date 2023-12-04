@@ -21,7 +21,6 @@
 
  I am frontend developer on React Js and React Native :dizzy:
 - I have been learning frontend since 2021 :space_invader:
-- Now i work in <a href="https://lred.ru/">Red Line</a> company in Khabarovsk &#128188;
 - I have experience in making cool SPA applications :scream:
 - And I'm just a good person who loves programming :heart_on_fire:
 
