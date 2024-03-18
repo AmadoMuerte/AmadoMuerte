@@ -6,9 +6,6 @@
       <a href="https://t.me/AmadoMuerte">
           <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="120">
       </a>
-      <a href="https://vk.com/jollyportal">
-          <img src="https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white" width="65">
-      </a>
   </div> 
 
   <a href="https://wakatime.com/@c79d01bf-5cd6-4649-abd8-7a23de944397"><img src="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397.svg" alt="Total time   coded since Dec 25 2022" /></a>
