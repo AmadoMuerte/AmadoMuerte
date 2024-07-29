@@ -1,13 +1,6 @@
 
 
 <div id="header" align="center">
-  <img src="./images/IMG_1919.JPG" width="300"/>
-  <div id="badges">
-      <a href="https://t.me/AmadoMuerte">
-          <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" width="120">
-      </a>
-  </div> 
-
   <a href="https://wakatime.com/@c79d01bf-5cd6-4649-abd8-7a23de944397"><img src="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397.svg" alt="Total time   coded since Dec 25 2022" /></a>
   <h2>
     Hi, I'm glad to see you
