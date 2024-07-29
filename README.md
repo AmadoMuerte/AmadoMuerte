@@ -10,7 +10,7 @@
 
   <a href="https://wakatime.com/@c79d01bf-5cd6-4649-abd8-7a23de944397"><img src="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397.svg" alt="Total time   coded since Dec 25 2022" /></a>
   <h2>
-    Hello, I'm glad to see you :wink:
+    Hi, I'm glad to see you
   </h2>
 </div>
 
