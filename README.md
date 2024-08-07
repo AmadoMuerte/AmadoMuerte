@@ -17,5 +17,10 @@ https://t.me/AmadoMuerte
    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="php" alt="php" width="40" height="40"/>&nbsp;
   <br></br>
 </div>
-<a href="https://wakatime.com/@c79d01bf-5cd6-4649-abd8-7a23de944397"><img src="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397.svg" alt="Total time   coded since Dec 25 2022" /></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadoMuerte&show_icons=true&theme=tokyonight)
+<div>
+ <a href="https://wakatime.com/@c79d01bf-5cd6-4649-abd8-7a23de944397"><img src="https://wakatime.com/badge/user/c79d01bf-5cd6-4649-abd8-7a23de944397.svg" alt="Total time   coded since Dec 25 2022" /></a>
+</div>
+
  
