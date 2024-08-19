@@ -15,7 +15,7 @@
  />
 <img
   width="380"
-  align="right"
+  align="left"
   src="https://github-readme-stats.vercel.app/api?username=AmadoMuerte&show_icons=true&theme=tokyonight"
 />
 
