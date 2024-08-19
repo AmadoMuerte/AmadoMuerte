@@ -10,7 +10,7 @@
  />
  <img
     align="center"
-    width="460"
+    width="380"
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fff&background=FF000000&center=true&vCenter=true&random=false&width=380&height=50&repeat=false&lines=I+use+arch+btw."
  />
 <img src="https://github-readme-stats.vercel.app/api?username=AmadoMuerte&show_icons=true&theme=tokyonight"/>
