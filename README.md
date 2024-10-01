@@ -11,7 +11,7 @@
  <img
     align="center"
     width="380"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fff&background=FF000000&center=true&vCenter=true&random=false&width=380&height=50&repeat=false&lines=I+use+arch+btw."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fff&background=FF000000&center=true&vCenter=true&random=false&width=380&height=50&repeat=false&lines=How+are+you+?"
  />
 <img
   width="380"
