@@ -15,9 +15,9 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmadoMuerte&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=00000000" width="420" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AmadoMuerte&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=00000000" width="420" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadoMuerte&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=9CA3AF&bg_color=00000000" width="360" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AmadoMuerte&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=9CA3AF&bg_color=00000000" width="360" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=AmadoMuerte&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=9CA3AF&background=00000000" width="420" alt="GitHub streak" />
 </div>
