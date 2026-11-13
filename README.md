@@ -1,35 +1,31 @@
-<a href="https://github.com/AmadoMuerte"><img src="images/IMG_1919.JPG" width="190" align="right" alt="AmadoMuerte" /></a>
+<div align="center">
+  <img src="images/IMG_1919.JPG" width="180" alt="AmadoMuerte" />
 
-# AmadoMuerte
+  # AmadoMuerte
 
-**Go software engineer** building small sharp tools for **Vintage Story**, **Minecraft**, **Waybar** and **NixOS/Linux**.
+  **Go software engineer**  
+  Vintage Story · Minecraft · Waybar · NixOS/Linux
 
-I like clean interfaces, automation and software that stays out of the way.
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Wails-FF7043?style=for-the-badge&logo=wails&logoColor=white" alt="Wails" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS" />
+</div>
 
-<br clear="right" />
+## Stats
 
-## Featured project
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmadoMuerte&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=00000000" width="420" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmadoMuerte&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=9CA3AF&bg_color=00000000" width="360" alt="Top languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=AmadoMuerte&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=9CA3AF&background=00000000" width="420" alt="GitHub streak" />
+</div>
 
-### 🕯️ [Waxlight Launcher](https://github.com/AmadoMuerte/Waxlight-launcher)
+## Projects
 
-A modern cross-platform launcher for **Vintage Story**: isolated game instances, account management, mod installation, multiple game versions and playtime tracking.
-
-`Go` · `Wails` · `React` · `TypeScript` · `SQLite` · `Linux` · `Windows`
-
-[![Repository](https://img.shields.io/badge/View_repository-181717?style=for-the-badge\&logo=github)](https://github.com/AmadoMuerte/Waxlight-launcher)
-[![Releases](https://img.shields.io/badge/Download_release-181717?style=for-the-badge\&logo=github)](https://github.com/AmadoMuerte/Waxlight-launcher/releases)
-
-## Toolbox
-
-| Area | Projects |
-|---|---|
-| Vintage Story | [Waxlight Launcher](https://github.com/AmadoMuerte/Waxlight-launcher) · [vintagestory-go](https://github.com/AmadoMuerte/vintagestory-go) |
-| Minecraft | [mine-piano](https://github.com/AmadoMuerte/mine-piano) · [ShulkerInsight](https://github.com/AmadoMuerte/ShulkerInsight) |
-| Linux / Waybar | [WaybarCodeStats](https://github.com/AmadoMuerte/WaybarCodeStats) · [ai-quota-waybar](https://github.com/AmadoMuerte/ai-quota-waybar) |
-| Infra | [nixos-config](https://github.com/AmadoMuerte/nixos-config) · [-dotfiles](https://github.com/AmadoMuerte/-dotfiles) |
-
-## Now
-
-- shipping **Waxlight Launcher**
-- polishing my NixOS/Waybar setup
-- making tools I actually use every day
+- 🕯️ [Waxlight Launcher](https://github.com/AmadoMuerte/Waxlight-launcher) — Vintage Story launcher: instances, mods, versions, playtime
+- 🟨 [WaybarCodeStats](https://github.com/AmadoMuerte/WaybarCodeStats) — WakaTime code stats in Waybar
+- 🎹 [mine-piano](https://github.com/AmadoMuerte/mine-piano) — Fabric piano mod for Minecraft
+- 🧊 [ShulkerInsight](https://github.com/AmadoMuerte/ShulkerInsight) — Kotlin Minecraft utility
+- 🐧 [nixos-config](https://github.com/AmadoMuerte/nixos-config) — my NixOS setup
